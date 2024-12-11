@@ -24,8 +24,8 @@ select {
 }
 
 @font-face {
-    font-family: "chalkduster";
-    src: url(Chalkduster.ttf) format("truetype");
+    font-family: "fira sans";
+    src: url(FiraSans-Regular.ttf) format("truetype");
 }
 
 a:link, a:visited {
